@@ -10,3 +10,10 @@ article {
     box-sizing: border-box;
     padding: 5px;
 }
+
+article > img {
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    width: 150px;
+}
