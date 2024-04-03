@@ -1,8 +1,9 @@
-import FunFact from "./FunFact"
-import Movie from "./Movie"
-import Shorts from "./Shorts"
-import Leadership from "./Leadership"
-import Home from "./Home"
+import FunFact from "./pages/FunFact"
+import Movie from "./pages/Movie"
+import Shorts from "./pages/Shorts"
+import Leadership from "./pages/Leadership"
+import Home from "./pages/Home"
+import About from "./pages/About"
 
 const routes = [
     {
@@ -24,6 +25,10 @@ const routes = [
     {
         path: "/leadership",
         element: <Leadership />
+    },
+    {
+        path: "/about",
+        element: <About />
     }
 ]
 export default routes;

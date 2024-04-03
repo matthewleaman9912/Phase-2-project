@@ -1,10 +1,10 @@
 import NavBar from "../components/NavBar";
 
-function Shorts () {
-    return (
+function About() {
+    return(
         <>
             <NavBar />
         </>
     )
 }
-export default Shorts;
+export default About;

@@ -11,10 +11,10 @@ function NavBar() {
             >Home
             </NavLink>
             <NavLink
-            to="/movies"
+            to="/about"
             style={NavBar.css}
             className="nav-link"
-            >Movies
+            >About
             </NavLink>
             <NavLink
             to="/shorts"
@@ -27,6 +27,12 @@ function NavBar() {
             style={NavBar.css}
             className="nav-link"
             >Leadership
+            </NavLink>
+            <NavLink 
+            to="/funfacts"
+            style={NavBar.css}
+            className="nav-link"
+            >Fun Facts
             </NavLink>
         </nav>
     );
