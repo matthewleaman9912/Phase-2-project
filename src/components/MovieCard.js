@@ -3,9 +3,7 @@ import {Link} from 'react-router-dom';
 
 
 function MovieCard({title, id, image}) {
-    let imgs = String(image)
-    let imgsrc="{" + imgs + "}"
-    console.log(imgsrc)
+   
     return(
         <>
         <article>

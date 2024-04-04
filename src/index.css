@@ -6,9 +6,11 @@ article {
     border: solid 1px;
     border-radius: 5px;
     margin: 5px;
-    max-width: 350px;
+    max-width: 1500px;
     box-sizing: border-box;
     padding: 5px;
+    text-align: center;
+    
 }
 
 article > img {
@@ -16,4 +18,12 @@ article > img {
     border-radius: 2px;
     padding: 5px;
     width: 150px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
 }
