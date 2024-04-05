@@ -6,11 +6,13 @@ article {
     border: solid 1px;
     border-radius: 5px;
     margin: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
     max-width: 1500px;
     box-sizing: border-box;
-    padding: 5px;
+    padding: 50px;
     text-align: center;
-    
+    background-color: goldenrod;
 }
 
 article > img {
@@ -18,12 +20,27 @@ article > img {
     border-radius: 2px;
     padding: 5px;
     width: 150px;
+    background-color: black;
 }
 
 header {
     text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
 }
 
 main {
     text-align: center;
+    background-image: url(https://external-preview.redd.it/9slU5TZV95bQool8Gq4d2Cjb9OkwwqjfEyJs3rOiuD8.jpg?auto=webp&s=6eea398ccce813e70586b5a401e592f0b0f29a8c);
 }
+
+main > h1 {
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: goldenrod;
+
+}
+

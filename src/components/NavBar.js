@@ -11,12 +11,6 @@ function NavBar() {
             >Home
             </NavLink>
             <NavLink
-            to="/about"
-            style={NavBar.css}
-            className="nav-link"
-            >About
-            </NavLink>
-            <NavLink
             to="/shorts"
             style={NavBar.css}
             className="nav-link"

@@ -3,7 +3,7 @@ import Movie from "./pages/Movie"
 import Shorts from "./pages/Shorts"
 import Leadership from "./pages/Leadership"
 import Home from "./pages/Home"
-import About from "./pages/About"
+
 
 const routes = [
     {
@@ -25,10 +25,6 @@ const routes = [
     {
         path: "/leadership",
         element: <Leadership />
-    },
-    {
-        path: "/about",
-        element: <About />
     }
 ]
 export default routes;
