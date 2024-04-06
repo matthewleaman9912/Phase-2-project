@@ -41,6 +41,10 @@ main > h1 {
     margin-left: 400px;
     margin-right: 400px;
     color: goldenrod;
+}
 
+article > h3 {
+    text-align: center;
+    color: darkblue;
 }
 
