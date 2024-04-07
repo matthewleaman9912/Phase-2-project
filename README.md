@@ -43,7 +43,7 @@ The following code snippet is an example of the fetch request made to grab a mov
 *![Alt text](../phase-2-project-1/src/Media/MovieID.png)
 
 The following code snippet is an example of the NavBar part of the application which allows the user to access each individual page from any other page. This is a crucial piece of the functionability for the user within this application. 
-*
+*![Alt text](../phase-2-project-1/src/Media/NavBar.png)
 
 The following two code snippets are examples of the fun fact POST form. This allows the user to view the previously posted fun facts, but also add their own fun fact to the list. 
 *
