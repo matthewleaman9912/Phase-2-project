@@ -6,11 +6,7 @@ function FunFact() {
     const [facts, setFacts] = useState([]);
     const [formData, setFormData] = useState([]);
 
-    function addFact (newFact) {
-        setFacts([...facts, newFact])
-    }
-
-
+ 
 
     const configObj = () => {
         fetch("http://localhost:3000/fun-facts", {
@@ -38,7 +34,6 @@ function FunFact() {
 
     function handleChange(event) {
         setFormData(event.target.value);
-
     }
 
     const factList = facts.map((fact) => {
