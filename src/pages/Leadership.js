@@ -17,7 +17,6 @@ function Leadership () {
         return <LeadershipCard key={leader.id} name={leader.name} position={leader.position} department={leader.department} image={leader.image} />
     })
 
-
     return (
         <>
         <main>
