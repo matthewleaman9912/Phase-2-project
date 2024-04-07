@@ -19,7 +19,6 @@ function Movie() {
         .catch(error => console.error(error))
     }, [movieID])
     
-
     return (
         <>
             <header>
