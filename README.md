@@ -36,3 +36,17 @@ This video is a complete walkthrough of all of the features and each page that i
 This video really gives the insight as to how this application could be used or how it could be useful to the user. Each page makes its own fetch request to the server to collect the correct information and display it in the appropriate way.
 
 ============================================================================
+# Code Examples
+----------------------------------------------------------------------------
+
+The following code snippet is an example of the fetch request made to grab a movie by its specific ID that allows the application to display only that movie at its own URL.
+*
+
+The following code snippet is an example of the NavBar part of the application which allows the user to access each individual page from any other page. This is a crucial piece of the functionability for the user within this application. 
+*
+
+The following two code snippets are examples of the fun fact POST form. This allows the user to view the previously posted fun facts, but also add their own fun fact to the list. 
+*
+*
+
+These snippets allow insight into what makes this application function correctly and allows the user to access all of the exciting features offered within this application. 
