@@ -11,5 +11,28 @@ This application uses JavaScript, JavaScript React, and CSS to create a database
             * A view of each executive in the Pixar company, along with their position in the company and what branch of the company they work in.
             * Lastly, a form containing a few fun facts about pixar, along with a form where you can submit your very own Pixar fun fact! 
 
+----------------------------------------------------------------------------
 
+Along with the features of this application, each movie creates its own url and removes its self from the origianl page. On this page is where you can find the facts about the film. 
+Here are some of the basic movie images!
 
+![Alt text](https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5BE8AA35D06F5AD07D83F10F53BE07344A402B3603E92976165E79155D36A3DB/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp)
+
+![Alt text](https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg?region=0%2C0%2C540%2C810)
+
+----------------------------------------------------------------------------
+
+Another cool feature of this application is the use of CSS! There is a unique background image along with colors that are both made to resemble iconic films from Pixar history! The clouds background (pictured below) are from the Toy Story series and the color choices, red and yellow, for the NavBar and each card are also from the Toy Story series! These CSS choices really bring the entire application to life and provide a depth that wouldnt be possible without them!
+
+![Alt text](https://external-preview.redd.it/9slU5TZV95bQool8Gq4d2Cjb9OkwwqjfEyJs3rOiuD8.jpg?auto=webp&s=6eea398ccce813e70586b5a401e592f0b0f29a8c)
+
+============================================================================
+# Usage
+----------------------------------------------------------------------------
+Link to video walkthrough:
+
+This video is a complete walkthrough of all of the features and each page that is offered in this application. This provides an example of what the application looks like with the CSS choices, along with the feature that is on each page within the application.
+
+This video really gives the insight as to how this application could be used or how it could be useful to the user. Each page makes its own fetch request to the server to collect the correct information and display it in the appropriate way.
+
+============================================================================
