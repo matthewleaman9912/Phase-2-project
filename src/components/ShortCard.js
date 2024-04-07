@@ -6,6 +6,7 @@ function ShortCard({title, image, summary}) {
     function handleClick () {
         setClick((click) => !click);
     }
+    
     return(
         <>
         <article>
