@@ -3,7 +3,6 @@ import {Link} from 'react-router-dom';
 
 
 function MovieCard({title, id, image}) {
-   
     return(
         <>
         <article>

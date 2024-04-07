@@ -8,7 +8,6 @@ function LeadershipCard({name, image, position, department}) {
                 <img src={image}></img>
                 <h3>{position}</h3>
                 <h3>{department}</h3>
-                
             </article>
         </>
     )
