@@ -47,7 +47,7 @@ The following code snippet is an example of the NavBar part of the application w
 
 The following two code snippets are examples of the fun fact POST form. This allows the user to view the previously posted fun facts, but also add their own fun fact to the list. 
 *![Alt text](../phase-2-project-1/src/Media/FF1.png)
-*
+*![Alt text](../phase-2-project-1/src/Media/FF2.png)
 
 These snippets allow insight into what makes this application function correctly and allows the user to access all of the exciting features offered within this application. 
 
