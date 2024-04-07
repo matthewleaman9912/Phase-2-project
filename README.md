@@ -50,3 +50,15 @@ The following two code snippets are examples of the fun fact POST form. This all
 *
 
 These snippets allow insight into what makes this application function correctly and allows the user to access all of the exciting features offered within this application. 
+
+============================================================================
+# Citations
+
+This application uses my own personal JSON, but also uses information from the sources below to give the correct information about each movie, short film, leadership position, and fun fact!
+
+Sources:
+        *
+        *
+        *
+        *
+        *
