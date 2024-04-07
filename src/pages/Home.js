@@ -16,15 +16,13 @@ function Home () {
         return <MovieCard key={film.id} title={film.title} id={film.id} image={film.image} />
     })
     return (
-        <page>
+        <main>
         <header>
             <NavBar />
         </header>
-        <main>
             <h1>Pixar Movies Home Page</h1>
             {movieList}
         </main>
-        </page>
     )
 }
 export default Home;

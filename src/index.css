@@ -48,3 +48,13 @@ article > h3 {
     color: darkblue;
 }
 
+form {
+    border: 1px solid black;
+    background-color: red;
+    box-sizing: border-box;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 50px;
+    color: black;
+    text-emphasis: bold;
+}

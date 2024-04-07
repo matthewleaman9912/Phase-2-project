@@ -20,10 +20,11 @@ function Shorts () {
     })
     return (
         <>
+        <main>
         <header>
             <NavBar />
         </header>
-        <main>
+        
             <h1>Pixar Shorts List</h1>
             {shortList}
         </main>
