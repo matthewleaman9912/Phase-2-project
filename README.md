@@ -1,6 +1,6 @@
 # The Pixar Collaboration #
 ============================================================================
-![Alt text](../phase-2-project-1/src/Media/Home.png)
+![Alt text](Media/Home.png)
 # Introduction
 ----------------------------------------------------------------------------
 Welcome to the Pixar Collaboration! This README.md file will walk through all of the features, CSS choices, and images used throughout this project. Also, this file will describe the each page within this project and all of their individual abilities. At the end, there will also be a link to the video example of the use of this app followed by a brief description! This app will hopefully answer any and every question there is about pixar films, shorts, leadership and fun facts!
@@ -40,14 +40,14 @@ This video really gives the insight as to how this application could be used or 
 ----------------------------------------------------------------------------
 
 The following code snippet is an example of the fetch request made to grab a movie by its specific ID that allows the application to display only that movie at its own URL.
-*![Alt text](../phase-2-project-1/src/Media/MovieID.png)
+*![Alt text](Media/MovieID.png)
 
 The following code snippet is an example of the NavBar part of the application which allows the user to access each individual page from any other page. This is a crucial piece of the functionability for the user within this application. 
-*![Alt text](../phase-2-project-1/src/Media/NavBar.png)
+*![Alt text](Media/NavBar.png)
 
 The following two code snippets are examples of the fun fact POST form. This allows the user to view the previously posted fun facts, but also add their own fun fact to the list. 
-*![Alt text](../phase-2-project-1/src/Media/FF1.png)
-*![Alt text](../phase-2-project-1/src/Media/FF2.png)
+*![Alt text](Media/FF1.png)
+*![Alt text](Media/FF2.png)
 
 These snippets allow insight into what makes this application function correctly and allows the user to access all of the exciting features offered within this application. 
 
