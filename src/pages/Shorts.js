@@ -18,13 +18,13 @@ function Shorts () {
     const shortList = short.map((sho) => {
         return <ShortCard key={sho.id} title={sho.title} image={sho.image} summary={sho.summary} /> 
     })
+
     return (
         <>
         <main>
         <header>
             <NavBar />
         </header>
-        
             <h1>Pixar Shorts List</h1>
             {shortList}
         </main>
