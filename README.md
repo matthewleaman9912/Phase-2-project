@@ -59,7 +59,11 @@ This application uses my own personal JSON, but also uses information from the s
 
 Sources:
         * https://www.pixar.com/feature-films-launch#top
+
         * https://external-preview.redd.it/9slU5TZV95bQool8Gq4d2Cjb9OkwwqjfEyJs3rOiuD8.jpg?auto=webp&s=6eea398ccce813e70586b5a401e592f0b0f29a8c
+
         * https://screenrant.com/pixar-movies-fun-facts/
+
         * https://www.pixar.com/short-films-1
+        
         * https://www.pixar.com/leadership
