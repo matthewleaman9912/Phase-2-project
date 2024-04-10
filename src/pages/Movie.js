@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 import NavBar from "../components/NavBar";
 import { useParams } from "react-router-dom";
-
+//make movie child component of Home
 
 function Movie() {
-    const [movie, setMovie] = useState([]);
+    const [movie, setMovie] = useState({});
     const [characters, setCharacters] = useState([]);
     const params = useParams();
     const movieID = params.id;
@@ -18,7 +18,11 @@ function Movie() {
         })
         .catch(error => console.error(error))
     }, [movieID])
-    
+
+    const characterList = characters.map((character) => {
+        return (<p>{character}</p>)
+    })
+
     return (
         <>
             <header>
@@ -30,7 +34,7 @@ function Movie() {
                     <h1>{movie.title}</h1>
                     <p>Release Date: {movie.release}</p>
                     <h3>Movie Characters</h3>
-                    <p>{characters[0]}, {characters[1]}, {characters[2]}</p>
+                    <p>{characterList}</p>
                 </article>
             </main>
         </>
