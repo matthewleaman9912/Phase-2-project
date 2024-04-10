@@ -19,13 +19,13 @@ function Leadership () {
 
     return (
         <>
-        <main>
-        <header>
-            <NavBar />
-        </header>
-            <h1>Pixar Leadership</h1>
-            {leaders}
-        </main>
+            <main>
+                <header>
+                    <NavBar />
+                </header>
+                <h1>Pixar Leadership</h1>
+                {leaders}
+            </main>
         </>
     )
 }

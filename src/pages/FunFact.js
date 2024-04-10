@@ -19,13 +19,13 @@ function FunFact() {
 
     return (
         <>
-        <main>
-        <header>
-            <NavBar />
-        </header>
-        <h1>Pixar Fun Facts</h1>
-        {factList}
-        </main>
+            <main>
+                <header>
+                    <NavBar />
+                </header>
+                 <h1>Pixar Fun Facts</h1>
+                {factList}
+            </main>
         </>
     )
 }

@@ -24,10 +24,10 @@ function Home () {
 console.log(movies)
     return (
         <main>
-        <header>
-            <NavBar />
-        </header>
-        <Form addMovie = {addMovie} />
+            <header>
+                <NavBar />
+            </header>
+                <Form addMovie = {addMovie} />
             <h1>Pixar Movies Home Page</h1>
             {movieList}
         </main>
