@@ -1,6 +1,6 @@
 # The Pixar Collaboration #
 ============================================================================
-![Alt text](./src/Media/Home.png)
+![Alt text](./src/Media/Home1.png)
 # Introduction
 ----------------------------------------------------------------------------
 Welcome to the Pixar Collaboration! This README.md file will walk through all of the features, CSS choices, and images used throughout this project. Also, this file will describe the each page within this project and all of their individual abilities. At the end, there will also be a link to the video example of the use of this app followed by a brief description! This app will hopefully answer any and every question there is about pixar films, shorts, leadership and fun facts!
