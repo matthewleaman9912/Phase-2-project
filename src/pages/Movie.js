@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import NavBar from "../components/NavBar";
 import { useParams } from "react-router-dom";
-//make movie child component of Home
+
 
 function Movie() {
     const [movie, setMovie] = useState({});

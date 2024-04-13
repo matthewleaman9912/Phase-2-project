@@ -11,6 +11,18 @@ This application uses JavaScript, JavaScript React, and CSS to create a database
             * A view of each executive in the Pixar company, along with their position in the company and what branch of the company they work in.
             * Lastly, a form containing a few fun facts about pixar, along with a form where you can submit your very own Pixar fun fact! 
 
+App
+└───Home - MovieCard, Form, NavBar
+    |
+    Movie - NavBar
+    |
+    FunFact - FunFactCard, NavBar
+    |
+    Leadership - LeadershipCard, NavBar
+    |
+    Shorts - ShortCard, NavBar
+    
+
 ----------------------------------------------------------------------------
 
 Along with the features of this application, each movie creates its own url and removes its self from the origianl page. On this page is where you can find the facts about the film. 
@@ -30,7 +42,7 @@ Another cool feature of this application is the use of CSS! There is a unique ba
 # Usage
 ----------------------------------------------------------------------------
 Link to video walkthrough:
-*
+* 
 
 This video is a complete walkthrough of all of the features and each page that is offered in this application. This provides an example of what the application looks like with the CSS choices, along with the feature that is on each page within the application.
 
