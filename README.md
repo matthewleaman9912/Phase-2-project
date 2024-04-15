@@ -42,7 +42,7 @@ Another cool feature of this application is the use of CSS! There is a unique ba
 # Usage
 ----------------------------------------------------------------------------
 Link to video walkthrough:
-* 
+* https://youtu.be/Wzkd7lPNFCY
 
 This video is a complete walkthrough of all of the features and each page that is offered in this application. This provides an example of what the application looks like with the CSS choices, along with the feature that is on each page within the application.
 
